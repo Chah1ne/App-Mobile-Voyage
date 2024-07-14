@@ -1,0 +1,1 @@
+ C:\\DEV\ MOBILE\\Projects\\cross_platform\\voyage\ -\ Copie\\.dart_tool\\flutter_build\\e503012ccbd74dcfc5242529b669afc7\\native_assets.yaml: 
